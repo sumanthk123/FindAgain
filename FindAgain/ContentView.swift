@@ -14,8 +14,8 @@ struct ContentView: View {
     var body: some View {
         VStack {
             HStack {
-                Image("icons8-filter-50")
                 Text("Found")
+                Image("icons8-filter-50")
                 Image("icons8-location-50")
             }.frame(maxWidth: .infinity).background(Color.indigo)
             Spacer()

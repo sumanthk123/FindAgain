@@ -16,6 +16,7 @@
 		AA1248BA2B85DFCD00F219F1 /* FindAgainUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1248B92B85DFCD00F219F1 /* FindAgainUITestsLaunchTests.swift */; };
 		AA1248C72B87F0B700F219F1 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA1248C62B87F0B700F219F1 /* Launch Screen.storyboard */; };
 		AA1248C92B87FE7D00F219F1 /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1248C82B87FE7D00F219F1 /* SampleData.swift */; };
+		AA1248CB2B880D7100F219F1 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1248CA2B880D7100F219F1 /* Login.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		AA1248B92B85DFCD00F219F1 /* FindAgainUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAgainUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		AA1248C62B87F0B700F219F1 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		AA1248C82B87FE7D00F219F1 /* SampleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
+		AA1248CA2B880D7100F219F1 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				AA1248A22B85DFCD00F219F1 /* Preview Content */,
 				AA1248C62B87F0B700F219F1 /* Launch Screen.storyboard */,
 				AA1248C82B87FE7D00F219F1 /* SampleData.swift */,
+				AA1248CA2B880D7100F219F1 /* Login.swift */,
 			);
 			path = FindAgain;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				AA12489F2B85DFCA00F219F1 /* ContentView.swift in Sources */,
 				AA1248C92B87FE7D00F219F1 /* SampleData.swift in Sources */,
 				AA12489D2B85DFCA00F219F1 /* FindAgainApp.swift in Sources */,
+				AA1248CB2B880D7100F219F1 /* Login.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
